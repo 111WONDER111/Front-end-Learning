@@ -1,0 +1,29 @@
+﻿/* 添加 CSS */
+.outline-border{
+  border: 2px ridge Gainsboro;
+  box-shadow: 5px 5px 5px #ccc;
+  width:400px;
+  padding: 2px 0.5em 0.5em 0.5em;
+}
+.img{
+  width:300px;
+  padding: 2px 0.5em 0.5em 2em;
+}
+.italic{
+  font-style:italic;
+}
+.title{
+  font-weight:700;
+  font-size: 22px;
+}
+.font-weight{
+  font-weight:700;
+}
+.inline-border{
+  border: 2px ridge Gainsboro;
+  padding: 2px 0.5em 0.5em 1em;
+}
+.none{
+  list-style-type: none;
+   padding: 0;
+}
